@@ -1,4 +1,4 @@
-# 🍇 Açaí Na Veia — Calculadora de Precificação
+#  Açaí Na Veia — Calculadora de Precificação
 
 Ferramenta web para calcular o preço de venda ideal de porções de açaí, considerando custo do produto, subprodutos, despesas operacionais, impostos e margem de lucro.
 
